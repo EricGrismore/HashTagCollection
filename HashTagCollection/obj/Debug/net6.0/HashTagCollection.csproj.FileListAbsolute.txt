@@ -1,0 +1,15 @@
+C:\Users\acer\Desktop\JavaScript\CIT190\HashTagCollection\HashTagCollection\bin\Debug\net6.0\HashTagCollection.exe
+C:\Users\acer\Desktop\JavaScript\CIT190\HashTagCollection\HashTagCollection\bin\Debug\net6.0\HashTagCollection.deps.json
+C:\Users\acer\Desktop\JavaScript\CIT190\HashTagCollection\HashTagCollection\bin\Debug\net6.0\HashTagCollection.runtimeconfig.json
+C:\Users\acer\Desktop\JavaScript\CIT190\HashTagCollection\HashTagCollection\bin\Debug\net6.0\HashTagCollection.dll
+C:\Users\acer\Desktop\JavaScript\CIT190\HashTagCollection\HashTagCollection\bin\Debug\net6.0\HashTagCollection.pdb
+C:\Users\acer\Desktop\JavaScript\CIT190\HashTagCollection\HashTagCollection\obj\Debug\net6.0\HashTagCollection.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\JavaScript\CIT190\HashTagCollection\HashTagCollection\obj\Debug\net6.0\HashTagCollection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Desktop\JavaScript\CIT190\HashTagCollection\HashTagCollection\obj\Debug\net6.0\HashTagCollection.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\JavaScript\CIT190\HashTagCollection\HashTagCollection\obj\Debug\net6.0\HashTagCollection.AssemblyInfo.cs
+C:\Users\acer\Desktop\JavaScript\CIT190\HashTagCollection\HashTagCollection\obj\Debug\net6.0\HashTagCollection.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\JavaScript\CIT190\HashTagCollection\HashTagCollection\obj\Debug\net6.0\HashTagCollection.dll
+C:\Users\acer\Desktop\JavaScript\CIT190\HashTagCollection\HashTagCollection\obj\Debug\net6.0\refint\HashTagCollection.dll
+C:\Users\acer\Desktop\JavaScript\CIT190\HashTagCollection\HashTagCollection\obj\Debug\net6.0\HashTagCollection.pdb
+C:\Users\acer\Desktop\JavaScript\CIT190\HashTagCollection\HashTagCollection\obj\Debug\net6.0\HashTagCollection.genruntimeconfig.cache
+C:\Users\acer\Desktop\JavaScript\CIT190\HashTagCollection\HashTagCollection\obj\Debug\net6.0\ref\HashTagCollection.dll
